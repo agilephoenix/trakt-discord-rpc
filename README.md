@@ -1,1 +1,1 @@
-# DEAD! not possible to use trakt API to watch scriblle process
+# DEAD! not possible to use trakt API to watch scroblle progress
